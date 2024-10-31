@@ -1,0 +1,7 @@
+D:\2.Soren LY\me\NotificationChannelParser\bin\Debug\NotificationChannelParser.exe.config
+D:\2.Soren LY\me\NotificationChannelParser\bin\Debug\NotificationChannelParser.exe
+D:\2.Soren LY\me\NotificationChannelParser\bin\Debug\NotificationChannelParser.pdb
+D:\2.Soren LY\me\NotificationChannelParser\obj\Debug\NotificationChannelParser.csproj.AssemblyReference.cache
+D:\2.Soren LY\me\NotificationChannelParser\obj\Debug\NotificationChannelParser.csproj.CoreCompileInputs.cache
+D:\2.Soren LY\me\NotificationChannelParser\obj\Debug\NotificationChannelParser.exe
+D:\2.Soren LY\me\NotificationChannelParser\obj\Debug\NotificationChannelParser.pdb

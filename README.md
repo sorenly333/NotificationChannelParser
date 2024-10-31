@@ -281,5 +281,5 @@ For inquiries or questions about the project, feel free to reach out:
 
 LY SOREN <br>
 Telegram: https://t.me/soren_ly <br>
-Email: sorenly333@example.com <br>
+Email: sorenly333@gmail.com <br>
 GitHub: [sorenly333](https://github.com/sorenly333)

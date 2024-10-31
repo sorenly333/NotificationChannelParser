@@ -279,7 +279,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For inquiries or questions about the project, feel free to reach out:
 
-LY SOREN
-Telegram: https://t.me/soren_ly
-Email: sorenly333@example.com
-GitHub: sorenly333
+LY SOREN <br>
+Telegram: https://t.me/soren_ly <br>
+Email: sorenly333@example.com <br>
+GitHub: [sorenly333](https://github.com/sorenly333)
